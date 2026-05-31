@@ -10,7 +10,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Outreach from './pages/Outreach'
 import Team from './pages/Team'
-import Gallery from './pages/Gallery'
+import Gallery from './pages/Gallery/Gallery'
 import Events from './pages/Events'
 import Contact from './pages/Contact'
 
